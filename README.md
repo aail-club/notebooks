@@ -8,6 +8,7 @@ Colab notebooks for Applied AI Lab sessions.
 | --- | --- | --- |
 | 2 | Python fundamentals: variables, types, strings, and conditionals | [Open](https://colab.research.google.com/github/aail-club/notebooks/blob/main/02-python-intro/python-intro.ipynb) |
 | 3 | First contact with data: loading and exploring a dataset with pandas | [Open](https://colab.research.google.com/github/aail-club/notebooks/blob/main/03-pandas-intro/pandas-intro.ipynb) |
+| 5 | Your first predictor: fitting a model, reading what it learned, and train/test splits | [Open](https://colab.research.google.com/github/aail-club/notebooks/blob/main/05-first-predictor/first-predictor.ipynb) |
 
 ## How to use
 
